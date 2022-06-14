@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEY5Tk4Q5U3nAUeVvkmlwZyRsO6U7nl+cr1aeqxTqH1f+LCL77C+GKVYyrinkJOggT5VhjRO+KukOMGUeUBiKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francesco\\Desktop\\MatriciApp\\MatriciApp\\MatriciApp\\MatriciApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

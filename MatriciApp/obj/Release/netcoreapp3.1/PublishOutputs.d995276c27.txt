@@ -1,0 +1,5 @@
+C:\Users\Francesco\Desktop\MatriciApp\MatriciApp\MatriciApp\bin\Release\netcoreapp3.1\publish\MatriciApp.exe
+C:\Users\Francesco\Desktop\MatriciApp\MatriciApp\MatriciApp\bin\Release\netcoreapp3.1\publish\MatriciApp.dll
+C:\Users\Francesco\Desktop\MatriciApp\MatriciApp\MatriciApp\bin\Release\netcoreapp3.1\publish\MatriciApp.deps.json
+C:\Users\Francesco\Desktop\MatriciApp\MatriciApp\MatriciApp\bin\Release\netcoreapp3.1\publish\MatriciApp.runtimeconfig.json
+C:\Users\Francesco\Desktop\MatriciApp\MatriciApp\MatriciApp\bin\Release\netcoreapp3.1\publish\MatriciApp.pdb
